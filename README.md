@@ -52,10 +52,10 @@ After the script has completed, go to the Excel workbook, and you should see the
 Here are screenshots of what the output looks like when I ran the scripts on my computer. These screenshots are also available in this repository.
 
 2014 Stock Data
-![2014 Stock Data](https://github.com/Crihan13na/VBA_challenge)
+![2014 Stock Data](https://github.com/Crihan13na/VBA_challenge/blob/master/Screen%20Shot%202014.png)
 
 2015 Stock Data
-Image of 2015 Stock Data
+![2015 Stock Data](https://github.com/Crihan13na/VBA_challenge/blob/master/Screen%20Shot%202015.png)
 
 2016 Stock Data
-Image of 2016 Stock Data
+![2016 Stock Data](https://github.com/Crihan13na/VBA_challenge/blob/master/Screen%20Shot%202016.png)
