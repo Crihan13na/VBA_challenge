@@ -52,7 +52,7 @@ After the script has completed, go to the Excel workbook, and you should see the
 Here are screenshots of what the output looks like when I ran the scripts on my computer. These screenshots are also available in this repository.
 
 2014 Stock Data
-Image of 2014 Stock Data
+![Image description](link-to-image)
 
 2015 Stock Data
 Image of 2015 Stock Data
