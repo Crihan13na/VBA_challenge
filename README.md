@@ -49,7 +49,7 @@ Finally, it return the stock with the greatest percent increase, greatest percen
 Sample Output
 After the script has completed, go to the Excel workbook, and you should see the results of the script.
 
-Here are screenshots of what the output looks like when I ran the scripts on my computer. These screenshots are also available in the VBAStocks/screenshots folder of this repository.
+Here are screenshots of what the output looks like when I ran the scripts on my computer. These screenshots are also available in this repository.
 
 2014 Stock Data
 Image of 2014 Stock Data
